@@ -1,2 +1,2 @@
 ## This repo contains 100 python practice problems
-## link for problems - https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblMwOUh5b3lJYmZVYnItVzlQcDliUm9IWkhFQXxBQ3Jtc0tuOGtUdjlOWUoyMkxZa1lDTlQ5LVZicVNXN3NBdlJkYVVpT2hoaTFySVB5Zjdac0NENFNsM3NSWnRCZENmaHRMZ2J2MW0xRUlVaG9tNFFzaWJ1NzVDcTdTUTFfRUdzdjNzU2tQZFNIWE9oUWQ0YnFCTQ&q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1CuKacG3lnnt5B-7kB9p1DiJ2PLFW8TQWn9JG1lTYRJs%2Fedit%3Fusp%3Dsharing&v=szkZ1DwABUs
+## link for problems - https://rb.gy/pxizgz
